@@ -1,1 +1,1 @@
-# gaia-dr3-agama-tutorial
+# Agama Tutorial
