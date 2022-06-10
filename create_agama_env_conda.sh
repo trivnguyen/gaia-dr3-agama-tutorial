@@ -15,6 +15,7 @@ conda install gxx_linux-64
 conda install gsl
 
 # Install pip and agama
-conda install -c anaconda pip
-pip install --user agama
+#conda install -c anaconda pip
+#pip install --user agama
 
+bash install_agama.sh
